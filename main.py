@@ -5,7 +5,7 @@ import pickle
 import warnings
 
 warnings.filterwarnings("ignore")
-model = pickle.load(open("Model_GYM.pkl","rb")) #loading the created model
+model = pickle.load(open("Model.pkl","rb")) #loading the created model
 
 
 st.set_page_config(page_title="GYM Application") #tab title
