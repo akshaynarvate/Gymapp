@@ -1,5 +1,13 @@
+# Fitness Prediction Application :-
+Based on the the inputs age, height, weight, finding the health status via BMI value.
+
 # Gymapp
-Building Gym app with Machine learning
+Building Gym app with Machine learning and deploying it.
+
+# Model :-
+After using Logistic regression, SVM, XGBoost and Random forest, We found Random forest gave the best accuracy.
+
+# Random forest - 83 % Accuracy
 
 # Demo
 
